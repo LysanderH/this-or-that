@@ -4,3 +4,4 @@ Design d'une application pour la vente de gadgets avec un prix fixe ou aléatoir
 
 * [design](./design)
 * [priority-guide](./priority-guide)
+* [moodboard](https://projects.invisionapp.com/boards/K23XND9VGBN/)
